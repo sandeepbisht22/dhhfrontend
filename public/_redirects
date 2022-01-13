@@ -1,6 +1,12 @@
+/auth/* https://desihiphop.herokuapp.com/auth/:splat 200
+
 /user/* https://desihiphop.herokuapp.com/user/:splat 200
 
+/artist/* https://desihiphop.herokuapp.com/artist/:splat 200
+
+
 /artist/rappers/* https://desihiphop.herokuapp.com/artist/rappers/:splat 200
+
 
 /artist/beatProducers/* https://desihiphop.herokuapp.com/artist/beatProducers/:splat 200
 
@@ -11,12 +17,4 @@
 /promoter/* https://desihiphop.herokuapp.com/promoter/:splat 200
 
 /label/* https://desihiphop.herokuapp.com/label/:splat 200
-
-
-
-
-
-
-
-
 
